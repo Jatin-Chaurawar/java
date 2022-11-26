@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PrimeNo",
+            "request": "launch",
+            "mainClass": "PrimeNo",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiple",
+            "request": "launch",
+            "mainClass": "multiple",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch continueStament",
+            "request": "launch",
+            "mainClass": "continueStament",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch dowhileloop",
+            "request": "launch",
+            "mainClass": "dowhileloop",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reversedigit",
+            "request": "launch",
+            "mainClass": "Reversedigit",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch whileloop",
+            "request": "launch",
+            "mainClass": "lib.whileloop",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Posorneg",
+            "request": "launch",
+            "mainClass": "Posorneg",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchStatement",
+            "request": "launch",
+            "mainClass": "SwitchStatement",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ternaryoptr",
+            "request": "launch",
+            "mainClass": "Ternaryoptr",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Largestof3",
+            "request": "launch",
+            "mainClass": "Largestof3",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch incometaxCalulator",
+            "request": "launch",
+            "mainClass": "incometaxCalulator",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddEv",
+            "request": "launch",
+            "mainClass": "OddEv",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Largestno",
+            "request": "launch",
+            "mainClass": "Largestno",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditional",
+            "request": "launch",
+            "mainClass": "Conditional",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Average",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Javabasics",
+            "request": "launch",
+            "mainClass": "Javabasics",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operator",
+            "request": "launch",
+            "mainClass": "Operator",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypePromotion",
+            "request": "launch",
+            "mainClass": "TypePromotion",
+            "projectName": "Java Programming Language_c728c49e"
+        },
+        {
+            "type": "java",
+            "name": "Launch input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "Java Programming Language_c728c49e"
+        }
+    ]
+}
